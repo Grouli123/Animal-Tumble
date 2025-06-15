@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1c2e0f6950345b399bf06f88dd61e50, type: 3}
+  m_Name: Fox
+  m_EditorClassIdentifier: 
+  animalShape: 0
+  animalFrameColor: 0
+  animalType: 0
+  sprite: {fileID: -591134556, guid: ac2fe7b7fc6cec8438bbb7d776f3bda7, type: 3}
+  prefab: {fileID: 4887115973313828133, guid: a0d1b994b7d39e94982e88f11b30d42d, type: 3}
